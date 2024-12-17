@@ -1,5 +1,4 @@
 dash
 dash-bootstrap-components
 plotly
-pandas
 yfinance
